@@ -1,0 +1,290 @@
+2023-05-29 18:57:41,486 INFO supervisord started with pid 1
+2023-05-29 18:57:42,491 INFO spawned: 'php-fpm' with pid 7
+2023-05-29 18:57:42,496 INFO spawned: 'websocket' with pid 8
+2023-05-29 18:57:43,523 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-29 18:57:43,523 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-29 19:15:52,505 WARN received SIGQUIT indicating exit request
+2023-05-29 19:15:52,506 INFO waiting for php-fpm, websocket to die
+2023-05-29 19:15:52,507 INFO stopped: websocket (terminated by SIGTERM)
+2023-05-29 19:15:52,511 INFO stopped: php-fpm (exit status 0)
+2023-05-30 08:47:02,889 INFO supervisord started with pid 1
+2023-05-30 08:47:03,893 INFO spawned: 'php-fpm' with pid 7
+2023-05-30 08:47:03,897 INFO spawned: 'websocket' with pid 8
+2023-05-30 08:47:03,975 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:04,978 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:04,981 INFO spawned: 'websocket' with pid 11
+2023-05-30 08:47:06,011 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:06,013 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:07,019 INFO spawned: 'websocket' with pid 12
+2023-05-30 08:47:07,312 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:08,321 INFO spawned: 'websocket' with pid 13
+2023-05-30 08:47:08,905 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:10,912 INFO spawned: 'websocket' with pid 14
+2023-05-30 08:47:11,962 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:11,963 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:12,968 INFO spawned: 'websocket' with pid 15
+2023-05-30 08:47:14,026 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:14,026 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:15,030 INFO spawned: 'websocket' with pid 16
+2023-05-30 08:47:16,084 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:16,084 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:17,094 INFO spawned: 'websocket' with pid 17
+2023-05-30 08:47:18,174 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:18,175 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:19,181 INFO spawned: 'websocket' with pid 18
+2023-05-30 08:47:20,227 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:20,227 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:21,234 INFO spawned: 'websocket' with pid 19
+2023-05-30 08:47:22,281 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:22,281 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:23,290 INFO spawned: 'websocket' with pid 20
+2023-05-30 08:47:24,336 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:24,337 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:25,342 INFO spawned: 'websocket' with pid 21
+2023-05-30 08:47:26,373 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:26,373 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:27,382 INFO spawned: 'websocket' with pid 22
+2023-05-30 08:47:28,447 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:28,448 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:29,456 INFO spawned: 'websocket' with pid 23
+2023-05-30 08:47:30,522 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:30,522 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:31,526 INFO spawned: 'websocket' with pid 24
+2023-05-30 08:47:32,562 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:32,562 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:33,568 INFO spawned: 'websocket' with pid 25
+2023-05-30 08:47:34,597 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:34,598 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:35,602 INFO spawned: 'websocket' with pid 26
+2023-05-30 08:47:36,634 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:36,635 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:37,642 INFO spawned: 'websocket' with pid 27
+2023-05-30 08:47:38,669 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:38,669 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:39,674 INFO spawned: 'websocket' with pid 28
+2023-05-30 08:47:40,711 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:40,712 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:41,718 INFO spawned: 'websocket' with pid 29
+2023-05-30 08:47:42,746 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:42,746 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:43,752 INFO spawned: 'websocket' with pid 30
+2023-05-30 08:47:44,784 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:44,785 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:45,790 INFO spawned: 'websocket' with pid 31
+2023-05-30 08:47:46,843 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:46,844 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:47,852 INFO spawned: 'websocket' with pid 32
+2023-05-30 08:47:48,881 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:48,881 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:49,889 INFO spawned: 'websocket' with pid 33
+2023-05-30 08:47:50,930 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:50,931 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:51,940 INFO spawned: 'websocket' with pid 34
+2023-05-30 08:47:52,967 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:52,968 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:53,974 INFO spawned: 'websocket' with pid 35
+2023-05-30 08:47:55,005 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:55,005 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:56,010 INFO spawned: 'websocket' with pid 36
+2023-05-30 08:47:57,042 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:57,042 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:47:58,049 INFO spawned: 'websocket' with pid 37
+2023-05-30 08:47:59,100 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:47:59,100 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:00,105 INFO spawned: 'websocket' with pid 38
+2023-05-30 08:48:01,190 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:01,190 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:02,195 INFO spawned: 'websocket' with pid 39
+2023-05-30 08:48:03,235 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:03,235 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:04,240 INFO spawned: 'websocket' with pid 40
+2023-05-30 08:48:05,270 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:05,270 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:06,275 INFO spawned: 'websocket' with pid 41
+2023-05-30 08:48:07,327 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:07,327 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:08,331 INFO spawned: 'websocket' with pid 42
+2023-05-30 08:48:09,372 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:09,373 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:10,377 INFO spawned: 'websocket' with pid 43
+2023-05-30 08:48:11,418 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:11,419 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:12,424 INFO spawned: 'websocket' with pid 44
+2023-05-30 08:48:12,533 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:13,537 INFO spawned: 'websocket' with pid 45
+2023-05-30 08:48:14,580 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:14,580 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:15,584 INFO spawned: 'websocket' with pid 46
+2023-05-30 08:48:16,626 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:16,626 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:17,633 INFO spawned: 'websocket' with pid 47
+2023-05-30 08:48:18,673 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:18,674 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:19,680 INFO spawned: 'websocket' with pid 48
+2023-05-30 08:48:20,707 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:20,707 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:21,712 INFO spawned: 'websocket' with pid 49
+2023-05-30 08:48:22,784 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:22,785 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:23,790 INFO spawned: 'websocket' with pid 50
+2023-05-30 08:48:24,831 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:24,831 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:25,836 INFO spawned: 'websocket' with pid 51
+2023-05-30 08:48:26,886 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:26,886 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:27,890 INFO spawned: 'websocket' with pid 52
+2023-05-30 08:48:28,921 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:28,921 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:29,925 INFO spawned: 'websocket' with pid 53
+2023-05-30 08:48:30,974 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:30,998 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:32,002 INFO spawned: 'websocket' with pid 54
+2023-05-30 08:48:33,033 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:33,034 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:34,038 INFO spawned: 'websocket' with pid 55
+2023-05-30 08:48:35,085 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:35,086 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:36,090 INFO spawned: 'websocket' with pid 56
+2023-05-30 08:48:37,122 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:37,123 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:38,128 INFO spawned: 'websocket' with pid 57
+2023-05-30 08:48:39,187 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:39,188 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:40,193 INFO spawned: 'websocket' with pid 58
+2023-05-30 08:48:41,231 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:41,231 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:42,236 INFO spawned: 'websocket' with pid 59
+2023-05-30 08:48:43,295 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:43,296 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:44,300 INFO spawned: 'websocket' with pid 66
+2023-05-30 08:48:45,341 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:45,342 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:46,349 INFO spawned: 'websocket' with pid 67
+2023-05-30 08:48:47,439 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:47,441 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:48,448 INFO spawned: 'websocket' with pid 69
+2023-05-30 08:48:49,495 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:49,495 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:50,500 INFO spawned: 'websocket' with pid 70
+2023-05-30 08:48:51,537 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:51,537 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:52,541 INFO spawned: 'websocket' with pid 91
+2023-05-30 08:48:53,631 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:53,632 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:54,636 INFO spawned: 'websocket' with pid 100
+2023-05-30 08:48:55,669 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:55,669 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:56,674 INFO spawned: 'websocket' with pid 101
+2023-05-30 08:48:57,704 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:57,705 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:48:58,710 INFO spawned: 'websocket' with pid 102
+2023-05-30 08:48:59,740 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:48:59,741 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:49:00,746 INFO spawned: 'websocket' with pid 264
+2023-05-30 08:49:01,815 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:49:01,816 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:49:02,821 INFO spawned: 'websocket' with pid 346
+2023-05-30 08:49:03,864 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:49:03,865 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:49:04,872 INFO spawned: 'websocket' with pid 361
+2023-05-30 08:49:05,902 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:49:05,902 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:49:06,906 INFO spawned: 'websocket' with pid 362
+2023-05-30 08:49:07,935 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:49:07,935 INFO exited: websocket (exit status 255; not expected)
+2023-05-30 08:49:08,942 INFO spawned: 'websocket' with pid 365
+2023-05-30 08:49:09,294 INFO reaped unknown pid 363 (exit status 0)
+2023-05-30 08:49:10,296 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:49:29,321 WARN received SIGQUIT indicating exit request
+2023-05-30 08:49:29,322 INFO waiting for php-fpm, websocket to die
+2023-05-30 08:49:29,325 INFO stopped: websocket (terminated by SIGTERM)
+2023-05-30 08:49:29,337 INFO stopped: php-fpm (exit status 0)
+2023-05-30 08:49:31,716 INFO supervisord started with pid 1
+2023-05-30 08:49:32,721 INFO spawned: 'php-fpm' with pid 6
+2023-05-30 08:49:32,725 INFO spawned: 'websocket' with pid 7
+2023-05-30 08:49:34,055 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-30 08:49:34,114 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-05-31 21:34:44,362 INFO exited: websocket (exit status 255; not expected)
+2023-05-31 21:34:45,373 INFO spawned: 'websocket' with pid 12
+2023-05-31 21:34:46,726 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-02 18:35:59,316 INFO exited: websocket (exit status 255; not expected)
+2023-06-02 18:36:00,330 INFO spawned: 'websocket' with pid 15
+2023-06-02 18:36:01,670 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-03 12:18:10,440 WARN received SIGQUIT indicating exit request
+2023-06-03 12:18:10,446 INFO waiting for php-fpm, websocket to die
+2023-06-03 12:18:10,463 INFO stopped: websocket (terminated by SIGTERM)
+2023-06-03 12:18:11,535 INFO stopped: php-fpm (exit status 0)
+2023-06-03 12:18:13,284 INFO supervisord started with pid 1
+2023-06-03 12:18:14,288 INFO spawned: 'php-fpm' with pid 7
+2023-06-03 12:18:14,292 INFO spawned: 'websocket' with pid 8
+2023-06-03 12:18:15,991 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-03 12:18:15,991 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-05 01:02:25,235 INFO exited: websocket (exit status 255; not expected)
+2023-06-05 01:02:26,243 INFO spawned: 'websocket' with pid 13
+2023-06-05 01:02:27,829 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-06 13:46:36,357 INFO exited: websocket (exit status 255; not expected)
+2023-06-06 13:46:37,369 INFO spawned: 'websocket' with pid 16
+2023-06-06 13:46:38,743 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-08 02:36:48,527 INFO exited: websocket (exit status 255; not expected)
+2023-06-08 02:36:49,540 INFO spawned: 'websocket' with pid 19
+2023-06-08 02:36:50,857 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-09 15:26:00,494 INFO exited: websocket (exit status 255; not expected)
+2023-06-09 15:26:01,500 INFO spawned: 'websocket' with pid 22
+2023-06-09 15:26:02,881 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-11 04:52:12,359 INFO exited: websocket (exit status 255; not expected)
+2023-06-11 04:52:13,366 INFO spawned: 'websocket' with pid 25
+2023-06-11 04:52:14,669 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-11 17:57:35,048 WARN received SIGQUIT indicating exit request
+2023-06-11 17:57:35,049 INFO waiting for php-fpm, websocket to die
+2023-06-11 17:57:36,075 INFO stopped: websocket (terminated by SIGTERM)
+2023-06-11 17:57:36,092 INFO stopped: php-fpm (exit status 0)
+2023-06-11 17:57:38,036 INFO supervisord started with pid 1
+2023-06-11 17:57:39,040 INFO spawned: 'php-fpm' with pid 8
+2023-06-11 17:57:39,044 INFO spawned: 'websocket' with pid 9
+2023-06-11 17:57:41,009 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-11 17:57:41,010 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-13 06:42:42,766 INFO exited: websocket (exit status 255; not expected)
+2023-06-13 06:42:43,795 INFO spawned: 'websocket' with pid 14
+2023-06-13 06:42:44,799 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-14 19:30:47,942 INFO exited: websocket (exit status 255; not expected)
+2023-06-14 19:30:48,949 INFO spawned: 'websocket' with pid 17
+2023-06-14 19:30:50,587 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-15 21:39:55,663 WARN received SIGQUIT indicating exit request
+2023-06-15 21:39:55,665 INFO waiting for php-fpm, websocket to die
+2023-06-15 21:39:55,700 INFO stopped: websocket (terminated by SIGTERM)
+2023-06-15 21:39:55,713 INFO stopped: php-fpm (exit status 0)
+2023-06-15 21:39:57,862 INFO supervisord started with pid 1
+2023-06-15 21:39:58,865 INFO spawned: 'php-fpm' with pid 7
+2023-06-15 21:39:58,868 INFO spawned: 'websocket' with pid 8
+2023-06-15 21:40:00,336 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-15 21:40:00,337 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-15 22:13:28,289 WARN received SIGQUIT indicating exit request
+2023-06-15 22:13:28,294 INFO waiting for php-fpm, websocket to die
+2023-06-15 22:13:28,300 INFO stopped: websocket (terminated by SIGTERM)
+2023-06-15 22:13:28,325 INFO stopped: php-fpm (exit status 0)
+2023-06-15 22:13:30,567 INFO supervisord started with pid 1
+2023-06-15 22:13:31,578 INFO spawned: 'php-fpm' with pid 7
+2023-06-15 22:13:31,589 INFO spawned: 'websocket' with pid 8
+2023-06-15 22:13:32,803 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-15 22:13:32,804 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-15 22:16:11,197 WARN received SIGQUIT indicating exit request
+2023-06-15 22:16:11,198 INFO waiting for php-fpm, websocket to die
+2023-06-15 22:16:11,202 INFO stopped: websocket (terminated by SIGTERM)
+2023-06-15 22:16:11,210 INFO stopped: php-fpm (exit status 0)
+2023-06-15 22:16:29,569 INFO supervisord started with pid 1
+2023-06-15 22:16:30,575 INFO spawned: 'php-fpm' with pid 7
+2023-06-15 22:16:30,581 INFO spawned: 'websocket' with pid 8
+2023-06-15 22:16:31,873 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-15 22:16:31,873 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-17 11:04:39,057 INFO exited: websocket (exit status 255; not expected)
+2023-06-17 11:04:40,074 INFO spawned: 'websocket' with pid 13
+2023-06-17 11:04:41,634 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 23:53:45,331 INFO exited: websocket (exit status 255; not expected)
+2023-06-18 23:53:46,344 INFO spawned: 'websocket' with pid 16
+2023-06-18 23:53:48,315 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-20 12:41:49,918 INFO exited: websocket (exit status 255; not expected)
+2023-06-20 12:41:50,929 INFO spawned: 'websocket' with pid 19
+2023-06-20 12:41:52,208 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-22 01:29:53,884 INFO exited: websocket (exit status 255; not expected)
+2023-06-22 01:29:54,895 INFO spawned: 'websocket' with pid 22
+2023-06-22 01:29:56,150 INFO success: websocket entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
